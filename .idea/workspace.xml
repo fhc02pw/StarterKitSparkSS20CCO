@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ace0cf9-6bd4-4e37-b6d5-e74008c46bd9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YiuLlMiNaRbwpNvKgjWV8w3yWz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.BigramAnalyzer">
+    <configuration name="BigramAnalyzer" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.campus02.iwi.lv.warmup.BigramAnalyzer" />
+      <module name="StarterKitSparkSS20CCO" />
+      <option name="PROGRAM_PARAMETERS" value="data/input/lv/warmup" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlightDelaysGF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.campus02.iwi.demo.gfgx.FlightDelaysGF" />
+      <module name="StarterKitSparkSS20CCO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.campus02.iwi.demo.gfgx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenFlightsDataGF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.campus02.iwi.demo.gfgx.OpenFlightsDataGF" />
+      <module name="StarterKitSparkSS20CCO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.campus02.iwi.demo.gfgx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenFlightsDataGX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.campus02.iwi.demo.gfgx.OpenFlightsDataGX" />
+      <module name="StarterKitSparkSS20CCO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.campus02.iwi.demo.gfgx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TweetStreamProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spark.exercise.utils.TweetStreamProducer" />
+      <module name="StarterKitSparkSS20CCO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spark.exercise.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WarmumZeilenfilter" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.campus02.iwi.lv.warmup.SimpleLineFilter" />
+      <module name="StarterKitSparkSS20CCO" />
+      <option name="PROGRAM_PARAMETERS" value="data/input/lv/warmup/pg100.txt (.*)William(.*)" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCountJava8Dataset" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.campus02.iwi.demo.wc.WordCountJava8Dataset" />
+      <module name="StarterKitSparkSS20CCO" />
+      <option name="PROGRAM_PARAMETERS" value="data/input/demo/wc data/output/demo/runwc1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.campus02.iwi.demo.wc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.WarmumZeilenfilter" />
+      <item itemvalue="Application.BigramAnalyzer" />
+      <item itemvalue="Application.WordCountJava8Dataset" />
+      <item itemvalue="Application.TweetStreamProducer" />
+      <item itemvalue="Application.FlightDelaysGF" />
+      <item itemvalue="Application.OpenFlightsDataGX" />
+      <item itemvalue="Application.OpenFlightsDataGF" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OpenFlightsDataGF" />
+        <item itemvalue="Application.OpenFlightsDataGX" />
+        <item itemvalue="Application.FlightDelaysGF" />
+        <item itemvalue="Application.TweetStreamProducer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ace0cf9-6bd4-4e37-b6d5-e74008c46bd9" name="Default Changelist" comment="" />
+      <created>1583437681359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583437681359</updated>
+      <workItem from="1583437682669" duration="1003000" />
+      <workItem from="1583438694335" duration="85000" />
+      <workItem from="1583438857516" duration="38000" />
+      <workItem from="1583477761519" duration="1999000" />
+      <workItem from="1583479771248" duration="36000" />
+      <workItem from="1583481830980" duration="743000" />
+      <workItem from="1583482945910" duration="33000" />
+      <workItem from="1583521847631" duration="5458000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1583522078946">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1583522078946" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583524974478">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583524974478" />
+    <state x="689" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583524856660">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583524856660" />
+    <state x="811" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583522345548">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="811" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583522345548" />
+    <state width="437" height="466" key="DebuggerActiveHint" timestamp="1583524402220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="437" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1583524402220" />
+    <state x="761" y="342" key="FileChooserDialogImpl" timestamp="1583524061272">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="342" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583524061272" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1583565963615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583565963615" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1583565963615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583565963615" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1583565963615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583565963615" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1583565963615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583565963615" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1583565963615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583565963615" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1583565963615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583565963615" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1583565963615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583565963615" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1583565963615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583565963615" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1583524085102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583524085102" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1583525495621">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1583525495621" />
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1583521850451">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583521850451" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1583565262126">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583565262126" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/campus02/iwi/lv/warmup/SimpleLineFilter.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
