@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ace0cf9-6bd4-4e37-b6d5-e74008c46bd9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_15_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_15_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/lv/purchase/buyings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/campus02/iwi/lv/sql/LogAnalyzerDSL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/campus02/iwi/lv/sql/LogAnalyzerDSL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/campus02/iwi/demo/wc/WordCountJava7RDD$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/campus02/iwi/demo/wc/WordCountJava7RDD$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/campus02/iwi/lv/sql/LogAnalyzerDSL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/campus02/iwi/lv/sql/LogAnalyzerDSL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/campus02/iwi/lv/sql/PurchaseStatsSQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/campus02/iwi/lv/sql/PurchaseStatsSQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/campus02/iwi/lv/sql/PurchaseStatsSQL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/campus02/iwi/lv/sql/PurchaseStatsSQL.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +33,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data/input/lv/purchase" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -43,7 +41,12 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.LogAnalyzerDslDemo">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitHub\6.Semester\CCO\StarterKitSparkSS20CCO\data\input\lv\purchase" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PurchaseStatsSQL">
     <configuration name="BigramAnalyzer" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="edu.campus02.iwi.lv.warmup.BigramAnalyzer" />
       <module name="StarterKitSparkSS20CCO" />
@@ -98,6 +101,14 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PurchaseStatsSQL" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.campus02.iwi.lv.sql.PurchaseStatsSQL" />
+      <module name="StarterKitSparkSS20CCO" />
+      <option name="PROGRAM_PARAMETERS" value="data/input/lv/purchase/buyings.json" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -164,6 +175,7 @@
       <item itemvalue="Application.WarmumZeilenfilter" />
       <item itemvalue="Application.BigramAnalyzer" />
       <item itemvalue="Application.LogAnalyzerDslDemo" />
+      <item itemvalue="Application.PurchaseStatsSQL" />
       <item itemvalue="Application.WordCountJava8Dataset" />
       <item itemvalue="Application.TweetStreamProducer" />
       <item itemvalue="Application.FlightDelaysGF" />
@@ -197,7 +209,7 @@
       <workItem from="1583481830980" duration="743000" />
       <workItem from="1583482945910" duration="33000" />
       <workItem from="1583521847631" duration="5458000" />
-      <workItem from="1584971068153" duration="2002000" />
+      <workItem from="1584971068153" duration="3226000" />
     </task>
     <servers />
   </component>
@@ -209,15 +221,15 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1583522078946" />
-    <state x="-1506" y="-9" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584971724465">
+    <state x="-1506" y="-9" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584973502000">
       <screen x="-1920" y="-184" width="1920" height="1040" />
     </state>
-    <state x="-1506" y="-9" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/-1920.-184.1920.1040@-1920.-184.1920.1040" timestamp="1584971724465" />
+    <state x="-1506" y="-9" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/-1920.-184.1920.1040@-1920.-184.1920.1040" timestamp="1584973502000" />
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583524974478" />
-    <state x="-1231" y="120" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584971698748">
+    <state x="-1231" y="120" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584973363002">
       <screen x="-1920" y="-184" width="1920" height="1040" />
     </state>
-    <state x="-1231" y="120" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680/-1920.-184.1920.1040@-1920.-184.1920.1040" timestamp="1584971698748" />
+    <state x="-1231" y="120" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680/-1920.-184.1920.1040@-1920.-184.1920.1040" timestamp="1584973363002" />
     <state x="689" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583524856660" />
     <state x="811" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583522345548">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -231,25 +243,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="761" y="342" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583524061272" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1584973047723">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1584974302333">
       <screen x="-1920" y="-184" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.-184.1920.1040@-1920.-184.1920.1040" timestamp="1584973047723" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.-184.1920.1040@-1920.-184.1920.1040" timestamp="1584974302333" />
     <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583565963615" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1584973047723">
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1584974302333">
       <screen x="-1920" y="-184" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1280.680/-1920.-184.1920.1040@-1920.-184.1920.1040" timestamp="1584973047723" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1280.680/-1920.-184.1920.1040@-1920.-184.1920.1040" timestamp="1584974302333" />
     <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583565963615" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1584973047723">
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1584974302333">
       <screen x="-1920" y="-184" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1280.680/-1920.-184.1920.1040@-1920.-184.1920.1040" timestamp="1584973047723" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1280.680/-1920.-184.1920.1040@-1920.-184.1920.1040" timestamp="1584974302333" />
     <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583565963615" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1584973047723">
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1584974302333">
       <screen x="-1920" y="-184" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1280.680/-1920.-184.1920.1040@-1920.-184.1920.1040" timestamp="1584973047723" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1280.680/-1920.-184.1920.1040@-1920.-184.1920.1040" timestamp="1584974302333" />
     <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583565963615" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1583565963615">
       <screen x="0" y="0" width="1920" height="1040" />
